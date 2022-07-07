@@ -3,7 +3,17 @@ entries:
   jaseci:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-08T01:08:20.0739279+05:30"
+    created: "2022-07-08T01:23:20.4920064+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 795e43fe13dde89ddb629d8a5fdaadc92e8df6fdcd1c3786c77dcf917aac5229
+    name: jaseci
+    type: application
+    urls:
+    - https://ashagraw91.github.io/helm-chart/jaseci-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-08T01:23:20.4888506+05:30"
     description: A Helm chart for Kubernetes
     digest: 9240611caf5fd247582c3687a2febc35082725e440e91d07a617f34cbff3fa6a
     name: jaseci
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://ashagraw91.github.io/helm-chart/jaseci-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-08T01:08:20.0617529+05:30"
+generated: "2022-07-08T01:23:20.4859144+05:30"
